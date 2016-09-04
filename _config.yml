@@ -22,16 +22,16 @@ color:
     - '#A6A69F'
     - '#383331'
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: The Family Business
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: The Family Business
 opengraph:
   image: null
   type: null
