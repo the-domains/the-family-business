@@ -1,28 +1,40 @@
-name: The Family Business
-favicon: null
-layout_spectrum: 0.6163199571892619
-typography_spectrum: 0.27446623309515417
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3125
+  brandStrength: 0.9444444
+  lightness: 0.3125
+  brandColors:
+    - '#010101'
+    - '#BFC7CB'
+    - '#78706B'
+    - '#A6A69F'
+    - '#383331'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: The Family Business
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#847b6d'
-    - '#dbc69b'
-    - '#201b1f'
-    - '#c00f36'
-  brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 0.3125
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.5752688
+layout_spectrum: 0.3046595
